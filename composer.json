@@ -3,7 +3,7 @@
   "type": "mediawiki-extension",
   "description": "MediaWiki license extension.",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://gitlab.com/marketplace-mediawiki",
+  "homepage": "https://github.com/marketplace-mediawiki",
   "keywords": [
     "mediawiki",
     "license"
@@ -28,8 +28,8 @@
     }
   ],
   "support": {
-    "issues": "https://gitlab.com/marketplace-mediawiki/mediawiki-ext-license/issues",
-    "source": "https://gitlab.com/marketplace-mediawiki/mediawiki-ext-license"
+    "issues": "https://github.com/marketplace-mediawiki/mediawiki-ext-license/issues",
+    "source": "https://github.com/marketplace-mediawiki/mediawiki-ext-license"
   },
   "require": {
     "composer/installers": "~1.0",
